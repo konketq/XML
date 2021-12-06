@@ -1,1 +1,9 @@
+<bag report>
+  
+  <id>1</id>
+  <steps>Open</steps>
+  <actual result>not open</actual result>
+  <expected result>open</expected result>
+  
+  </bag report>
 
