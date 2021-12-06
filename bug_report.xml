@@ -1,9 +1,9 @@
-<bag report>
+<bag_report>
   
   <id>1</id>
   <steps>Open</steps>
-  <actual result>not open</actual result>
-  <expected result>open</expected result>
+  <actual_result>not open</actual_result>
+  <expected_result>open</expected_result>
   
-  </bag report>
+  </bag_report>
 
